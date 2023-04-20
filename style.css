@@ -1,0 +1,52 @@
+* {
+
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body, html {
+
+    text-align: center;
+    padding: 100px 300px;
+}
+
+.container {
+
+    width: 400px;
+    height: 500px;
+    position: absolute;
+   
+    border: 1px black solid;
+    border-spacing: 2em;
+    margin: 20px 50px;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 100px 100px;
+    box-shadow: 20;
+    
+    
+}
+
+
+.btn {
+
+    background-color: blueviolet;
+    width: 80px;
+    height: 40px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+input {
+
+    border-radius: 4px;
+    width: 220px;
+    height: 40px;
+}
+
+.btn:hover {
+
+    background-color: burlywood;
+}
